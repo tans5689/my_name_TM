@@ -1,0 +1,19 @@
+.hero {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero .content h1 {
+  font-size: 3em;
+  color: #333;
+}
+
+.hero .main-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
